@@ -1,0 +1,113 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Anton-Regular.ttf",
+      "sha1": "49243712633711db3b673d0b03536e0180cd7ddb"
+    },
+    {
+      "path": "assets/fonts/BlackOpsOne-Regular.ttf",
+      "sha1": "66aa80951fc0fb743a22760df8197c85210fab66"
+    },
+    {
+      "path": "assets/fonts/Caveat-Bold.ttf",
+      "sha1": "b8cf7188694f0ad229fec80e8074b1df6305cdfa"
+    },
+    {
+      "path": "assets/fonts/Caveat-Medium.ttf",
+      "sha1": "0cd0d0e17561fad5254d00dfc406e0662495de09"
+    },
+    {
+      "path": "assets/fonts/Caveat-Regular.ttf",
+      "sha1": "6c6e0943c8a1af2aa1fe7d751c62e84e18cc4c72"
+    },
+    {
+      "path": "assets/fonts/Caveat-SemiBold.ttf",
+      "sha1": "f91cf4115830f412e3e58aa87d3dca337b996453"
+    },
+    {
+      "path": "assets/fonts/Caveat-VariableFont_wght.ttf",
+      "sha1": "622989e46c6e18a42f96e92622e5cdb5ebde0f47"
+    },
+    {
+      "path": "assets/fonts/DancingScript-Bold.ttf",
+      "sha1": "42858229a137c5188a859df102afff145200114d"
+    },
+    {
+      "path": "assets/fonts/DancingScript-Medium.ttf",
+      "sha1": "30711d9cdbed046fef8128082c6cc1a9287dbc7c"
+    },
+    {
+      "path": "assets/fonts/DancingScript-Regular.ttf",
+      "sha1": "b52e869bd47b6e98fd907ae00b1828916451b3b0"
+    },
+    {
+      "path": "assets/fonts/DancingScript-SemiBold.ttf",
+      "sha1": "b5e71ddbaca9b4d5953f0c5e45bf326fb7df35ba"
+    },
+    {
+      "path": "assets/fonts/DancingScript-VariableFont_wght.ttf",
+      "sha1": "f6ef1641594430e8367d9c26819a900c879b8f35"
+    },
+    {
+      "path": "assets/fonts/IndieFlower-Regular.ttf",
+      "sha1": "dab8ff786dd1c6a3e8fa8a54d4d59cf9a703efe1"
+    },
+    {
+      "path": "assets/fonts/LilitaOne-Regular.ttf",
+      "sha1": "3a4f50ed3543a0d3291ef171aeee5408072559bd"
+    },
+    {
+      "path": "assets/fonts/Lobster-Regular.ttf",
+      "sha1": "120c751cd7a77174037c2409ab883ef7efc5edbb"
+    },
+    {
+      "path": "assets/fonts/Orbitron-Black.ttf",
+      "sha1": "19c4f40df75add673845967c2991ea6801442b0b"
+    },
+    {
+      "path": "assets/fonts/Orbitron-Bold.ttf",
+      "sha1": "8347020cc2c8c9f4f9ea60b9ad666c662501474c"
+    },
+    {
+      "path": "assets/fonts/Orbitron-ExtraBold.ttf",
+      "sha1": "6ebbd3aa76f99524a9818abbedaf80f015616fd7"
+    },
+    {
+      "path": "assets/fonts/Orbitron-Medium.ttf",
+      "sha1": "e97b5fd285f05ec9aa3044a0111339ec1f3ecf62"
+    },
+    {
+      "path": "assets/fonts/Orbitron-Regular.ttf",
+      "sha1": "83051c0150895de073fd1d8e97d3687070e5dfa6"
+    },
+    {
+      "path": "assets/fonts/Orbitron-SemiBold.ttf",
+      "sha1": "1cb2e91b14b62bb9c72eda60db0600feb01ce93a"
+    },
+    {
+      "path": "assets/fonts/Orbitron-VariableFont_wght.ttf",
+      "sha1": "51441780e1af77d5bdbfe1fffad3a90644d8ee76"
+    },
+    {
+      "path": "assets/fonts/Pacifico-Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    },
+    {
+      "path": "assets/fonts/Play-Bold.ttf",
+      "sha1": "394247c9a5eeded939cf9d78b30687495b36f0dd"
+    },
+    {
+      "path": "assets/fonts/Play-Regular.ttf",
+      "sha1": "1597823ffd9c3a555b5081c7394ff0347adfbdbc"
+    },
+    {
+      "path": "assets/fonts/RubikIso-Regular.ttf",
+      "sha1": "4be9d6437125bca3c5a8c951fd0c10455625eab4"
+    },
+    {
+      "path": "assets/fonts/ShadowsIntoLight-Regular.ttf",
+      "sha1": "e512d65b44398e83907215402d477643751c1dfa"
+    }
+  ]
+}
